@@ -1,0 +1,15 @@
+lioraryepaz, omer_van
+Lior Paz (206240996), Omer Vandsburger (204153688)
+EX: 4
+
+FILES:
+README -- details
+VirtualMemory.cpp -- implementation of library
+Makefile -- for the command make creates the library libVirtualMemory.a
+
+REMARKS:
+nice and easy
+
+ANSWERS:
+
+None
